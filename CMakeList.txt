@@ -1,0 +1,3 @@
+priint('Введите a и b')
+a=int(input())
+b=int(input())
